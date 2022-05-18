@@ -2,7 +2,6 @@ package com.smalldogg.study.advanced.app.v2;
 
 import com.smalldogg.study.advanced.trace.TraceId;
 import com.smalldogg.study.advanced.trace.TraceStatus;
-import com.smalldogg.study.advanced.trace.hellotrace.HelloTraceV1;
 import com.smalldogg.study.advanced.trace.hellotrace.HelloTraceV2;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

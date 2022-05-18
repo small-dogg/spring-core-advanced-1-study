@@ -1,7 +1,5 @@
 package com.smalldogg.study.advanced.trace;
 
-import lombok.Data;
-
 import java.util.UUID;
 
 public class TraceId {
